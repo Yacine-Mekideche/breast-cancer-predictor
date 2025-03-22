@@ -1,5 +1,7 @@
 # 🧬 Breast Cancer Predictor | AI-Powered Diagnosis  
 
+![image](https://github.com/user-attachments/assets/f1ed0479-6d58-4014-bf22-1e450fa0ca00)
+
 ## 📖 Introduction  
 
 **Breast Cancer Predictor** is a **Machine Learning-based web application** that classifies breast tumors as **benign or malignant** using cell nuclei measurements. Built with **Python, Streamlit, and Scikit-Learn**, it provides **real-time predictions** and an **interactive radar chart** for visualization.  
